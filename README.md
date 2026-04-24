@@ -159,7 +159,7 @@ The notebook uses `visualize_prediction`-style logic to load a test image, prepr
 
 Save this figure as `prediction-apple-braeburn.png`.
 
-![Apple Prediction](prediction-apple-braeburn.png)
+![Apple Prediction](apple-prediction.png)
 
 Actual: `apple_braeburn_1`, Predicted: `apple_crimson_snow_1`.  
 This is a reasonable mistake because the two apple classes are visually very similar in shape, color, and texture.
@@ -168,7 +168,7 @@ This is a reasonable mistake because the two apple classes are visually very sim
 
 Save this figure as `prediction-cucumber-3.png`.
 
-![Cucumber Prediction](prediction-cucumber-3.png)
+![Cucumber Prediction](cucumber-prediction.png)
 
 Actual: `cucumber_3`, Predicted: `cucumber_3`.  
 This is a correct prediction and suggests the model learned strong features for this class.
@@ -177,7 +177,7 @@ This is a correct prediction and suggests the model learned strong features for 
 
 Save this figure as `prediction-pear-1.png`.
 
-![Pear Prediction](prediction-pear-1.png)
+![Pear Prediction](pear-prediction.png)
 
 Actual: `pear_1`, Predicted: `pear_1`.  
 This is also a correct prediction and shows that the model can generalize well on some unseen fruit samples.
