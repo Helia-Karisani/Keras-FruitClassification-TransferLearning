@@ -133,7 +133,6 @@ Plots the training and validation accuracy and loss.
 
 ### Accuracy curve
 
-Save this figure as `training-validation-accuracy.png` so it renders correctly in GitHub.
 
 ![Training and Validation Accuracy](training-validation-accuracy.png)
 
@@ -142,7 +141,6 @@ The validation curve stays close to the training curve, which suggests decent ge
 
 ### Loss curve
 
-Save this figure as `training-validation-loss.png` so it renders correctly in GitHub.
 
 ![Training and Validation Loss](training-validation-loss.png)
 
@@ -157,7 +155,6 @@ The notebook uses `visualize_prediction`-style logic to load a test image, prepr
 
 ### Sample prediction 1
 
-Save this figure as `prediction-apple-braeburn.png`.
 
 ![Apple Prediction](apple-prediction.png)
 
@@ -166,7 +163,6 @@ This is a reasonable mistake because the two apple classes are visually very sim
 
 ### Sample prediction 2
 
-Save this figure as `prediction-cucumber-3.png`.
 
 ![Cucumber Prediction](cucumber-prediction.png)
 
@@ -175,7 +171,6 @@ This is a correct prediction and suggests the model learned strong features for 
 
 ### Sample prediction 3
 
-Save this figure as `prediction-pear-1.png`.
 
 ![Pear Prediction](pear-prediction.png)
 
